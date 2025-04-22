@@ -51,4 +51,6 @@ R-squared (R²) Score
 
 These metrics helped assess model performance and select the best forecasting approach.
 
+SARIMA performed the best followed by XG boost
+
 
