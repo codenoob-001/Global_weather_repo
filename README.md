@@ -26,7 +26,6 @@ Correlations: Heatmaps and scatter plots were generated to explore relationships
 
 Trend Analysis: Used line plots to observe seasonal trends over time.
 
-Anomaly Detection: Implemented statistical techniques to detect extreme weather events.
 
 3. Forecasting Models
 
@@ -38,7 +37,7 @@ XGBoost Regressor: A gradient boosting approach for improved accuracy.
 
 Linear Regression: A baseline model to compare performance.
 
-ARIMA: Time series forecasting model for trend-based predictions.
+SARIMA: Time series forecasting model for trend-based predictions.
 
 4. Model Evaluation
 
@@ -52,18 +51,4 @@ R-squared (R²) Score
 
 These metrics helped assess model performance and select the best forecasting approach.
 
-5. Anomaly Detection
 
-Used Z-score method to flag extreme deviations in temperature data.
-
-Applied Isolation Forest to detect weather anomalies.
-
-Visualized anomalies over time to assess climate irregularities.
-
-Results & Insights
-
-Significant temperature variations were observed in certain regions.
-
-XGBoost outperformed other models in temperature forecasting.
-
-Anomalies were detected, indicating potential climate shifts.
